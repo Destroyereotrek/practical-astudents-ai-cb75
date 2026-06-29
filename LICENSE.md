@@ -1,4 +1,4 @@
-# 
+# Professional Practical AI Projects for Students presets. Featuring neural-networks and deep-learning-models — optimized for maximum performance.
 
 
 
